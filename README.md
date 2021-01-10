@@ -5,7 +5,7 @@ I'm an Electrical Engineering student at Virginia Tech with a passion for avioni
 Fun Fact: Minoring in Psychology!
 <!--
 **rayzing/rayzing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-(Try these)(SSH) 
+(Try these)(SSH)  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
